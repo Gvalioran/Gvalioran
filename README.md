@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/Gvalioran/Gvalioran/main/banner.png" alt="banner" />
 </p>
 
 <h1 align="center">👾 Kirill — QA Automation Engineer & Python Developer</h1>
